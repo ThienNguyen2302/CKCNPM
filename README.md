@@ -1,1 +1,1 @@
-# CKCNPM
+This  project is for studying purpose
